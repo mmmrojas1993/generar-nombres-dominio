@@ -8,7 +8,7 @@ for (let index = 0; index < pronoun.length; index++) {
     const adj = adjs[index2]; //great
     for (let index3 = 0; index3 < noun.length; index3++) {
       const sustantivo = noun[index3]; //jogger
-      console.log(pronombre + adj + sustantivo + ".com");
+      console.log(pronombre + adj + sustantivo + ".net");
     }
   }
 }
